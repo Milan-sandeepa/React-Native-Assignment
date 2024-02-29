@@ -49,31 +49,12 @@ const App = () => {
               barStyle={isDarkMode ? 'light-content' : 'dark-content'}
             />
 
-            {/*=================================================*/}
-            {/*      /!* Root Navigation *!/*/}
-            {/*=================================================*/}
-            {/* <SelectStoreScreen /> */}
-            {/* <SelectTypeScreen /> */}
-            {/* <SelectItemScreen /> */}
-            {/* <AddToCartScreen /> */}
-            {/* <CartDetailsScreen /> */}
-
-            {/* <SelectItemTypeScreen /> */}
-            {/* <AddItemTypeScreen /> */}
-
             <NavigationContainer>
               <FcmConfig />
               <PaymentRequestPopUp />
               {/* <OrderPaymentPopUp /> */}
               <DrawerNavigation />
             </NavigationContainer>
-
-            {/*=================================================*/}
-
-            {/* <StartedScreen /> */}
-            {/* <LandingRegisterScreen /> */}
-            {/* <SignInScreen /> */}
-            {/* <SignUpScreen /> */}
           </PaperProvider>
         </PersistGate>
       </Provider>
