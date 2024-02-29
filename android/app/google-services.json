@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191388870759",
+    "project_id": "cashex-52c5e",
+    "storage_bucket": "cashex-52c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191388870759:android:0eb83721efb4c32c3b8cc2",
+        "android_client_info": {
+          "package_name": "com.cashex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX-qYqZTitNuG7LwslZ3AymRRd6s1o6Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
